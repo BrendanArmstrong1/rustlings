@@ -16,6 +16,7 @@
 //
 // Execute `rustlings hint box1` for hints :)
 
+// new comment
 #[derive(PartialEq, Debug)]
 pub enum List {
     Cons(i32, List),
